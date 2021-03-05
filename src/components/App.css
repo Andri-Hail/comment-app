@@ -1,0 +1,39 @@
+.makePost {
+    border: 1px solid lightgray;
+    width:80%;
+    margin-top:10%;
+    margin-left:10%;
+    padding: 10px;
+}
+
+.makeReply {
+    border: 1px solid rgb(236, 212, 212);
+    width:80%;
+    margin-top:10%;
+    margin-left:10%;
+    padding: 10px;
+}
+
+textArea {
+    width:60%;
+    height:15%;
+}
+
+.showPost {
+    border-left: 1px solid lightgray;
+    width:70%;
+    margin-top:7%;
+    margin-left:15%;
+    padding: 10px;
+}
+
+.vote {
+    background-color:white;
+    border:1px solid black;
+    margin:2px;
+    border-radius: 3px;
+}
+
+.vote:hover {
+    background-color:lightgreen;
+}
